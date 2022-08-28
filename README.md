@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Truong Giang, a junior Computer Science of VinUniversity.
+I am Truong Giang, a Computer Science junior student of VinUniversity.
 
 I have experience in developing applications using Microsoft technology stack, especially ASP.NET Core.
 

@@ -14,5 +14,5 @@ Besides, I also conduct research projects in Federated Learning and Differential
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=C%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=Python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ### 📊 GitHub Stats:
-![](https://raw.githubusercontent.com/goldenskygiang/goldenskygiang/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/goldenskygiang/goldenskygiang/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/goldenskygiang/goldenskygiang/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/goldenskygiang/goldenskygiang/master/generated/languages.svg)

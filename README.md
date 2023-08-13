@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Truong Giang, a Masters' student in Computer and Information at the University of Pennsylvania. Also, I am completing my senior year in Computer Science at VinUniversity.
+I am Truong Giang, a Masters' student in Computer and Information Science (MSE/CIS) at the University of Pennsylvania. Also, I am completing my senior year in Computer Science at VinUniversity.
 
 I have experience in developing back-end systems in ASP.NET Core, Django and FastAPI, from personal projects to nationwide-deployed systems at work.
 

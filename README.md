@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-I am Truong Giang, a Master's student in Computer and Information Science (MSE/CIS) at the University of Pennsylvania. Also, I ~am completing my senior year~ have just graduated with a Bachelor's degree in Computer Science at VinUniversity.
+I am Giang, a software engineer at Bloomberg Industry Group!
 
-I have experience in developing back-end systems in ASP.NET Core, Django and FastAPI, from personal projects to nationwide-deployed systems at work.
+Prior to that, I graduated with a Master's degree at the University of Pennsylvania, and a Bachelor's degree at VinUniversity, both in the same Computer Science major.
 
-In addition, I also do a bit of machine learning through research projects in Differential Privacy and Federated Learning.
+~~I have experience in developing back-end systems in ASP.NET Core, Django and FastAPI, from personal projects to nationwide-deployed systems at work.
+In addition, I also do a bit of machine learning through research projects in Differential Privacy and Federated Learning. Frontend dev sucks.~~ As long as it is code, I can do it (hopefully)!
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giangthedev) [![Email](https://img.shields.io/badge/email-giangthedev%40outlook.com.vn-blue)](mailto:giangthedev@outlook.com.vn)
